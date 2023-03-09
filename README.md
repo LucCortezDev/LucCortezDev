@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+ <br>
+  
   -Eu sou o Lucas Cortez, sou estudante e programador Full Stack, atualmente estou aprendendo e criando projetos com:
   <br>
   <br>
   
-  
+
 
  
     
@@ -19,8 +21,13 @@
   <br>
   - <img width="60px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
   </p>
+   <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
   <br>
   
+  
+ 
+  
+  <br>
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccortezdev&show_icons=true&theme=cobalt)
   
@@ -44,3 +51,7 @@
   <img align="left" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo" />
   </a>
   </p> 
+    
+  [![MasterHead](https://media.discordapp.net/attachments/595424735442108416/1083482495657463959/gitbackground.png?width=1250&height=375)](https://github.com/LucCortezDev)
+  
+ 
